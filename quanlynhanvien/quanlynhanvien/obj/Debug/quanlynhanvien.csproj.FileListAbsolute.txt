@@ -8,3 +8,13 @@ C:\Users\Admin\source\repos\quanlynhanvien\quanlynhanvien\bin\Debug\quanlynhanvi
 C:\Users\Admin\source\repos\quanlynhanvien\quanlynhanvien\bin\Debug\quanlynhanvien.pdb
 C:\Users\Admin\source\repos\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.exe
 C:\Users\Admin\source\repos\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.pdb
+C:\Users\Admin\Documents\GitHub\testc-\quanlynhanvien\quanlynhanvien\bin\Debug\quanlynhanvien.exe.config
+C:\Users\Admin\Documents\GitHub\testc-\quanlynhanvien\quanlynhanvien\bin\Debug\quanlynhanvien.exe
+C:\Users\Admin\Documents\GitHub\testc-\quanlynhanvien\quanlynhanvien\bin\Debug\quanlynhanvien.pdb
+C:\Users\Admin\Documents\GitHub\testc-\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\testc-\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.Form1.resources
+C:\Users\Admin\Documents\GitHub\testc-\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\testc-\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\testc-\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\testc-\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.exe
+C:\Users\Admin\Documents\GitHub\testc-\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.pdb
